@@ -27,5 +27,5 @@ class Customer
         @@all
       end
 
-end
+
 end
